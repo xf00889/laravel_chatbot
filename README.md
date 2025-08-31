@@ -60,7 +60,7 @@ OpenGen is an intelligent AI chatbot application that provides users with conver
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/xf00889/laravel_chatbot/)
    cd chatbot_project
    ```
 
